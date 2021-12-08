@@ -7,5 +7,3 @@ Code, slides, and notes for Boston University CS506 Fall 2021
 ___
 
 The Final Project Repositories can be found [here](https://github.com/orgs/BU-Spark/teams/cs506-fa21-galletti/repositories)
-
-## TEST 

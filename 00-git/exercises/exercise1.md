@@ -2,12 +2,12 @@
 
 #### This is your checklist:
 
-- [ ] Create a repo on GitHub (GH)
-- [ ] Clone a repo
-- [ ] Look at remotes
-- [ ] Create a branch
-- [ ] Switch to another branch
-- [ ] Push changes to GH from terminal
+- [o] Create a repo on GitHub (GH)
+- [o] Clone a repo
+- [o] Look at remotes
+- [o] Create a branch
+- [o] Switch to another branch
+- [o] Push changes to GH from terminal
 - [ ] Submit a pull request (PR) on GH
 - [ ] Merge the pull request (PR) on GH
 - [ ] Pull changes locally
