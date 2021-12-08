@@ -9,9 +9,9 @@
 - [o] Switch to another branch
 - [o] Push changes to GH from terminal
 - [o] Submit a pull request (PR) on GH
-- [ ] Merge the pull request (PR) on GH
-- [ ] Pull changes locally
-- [ ] Recover a deleted file
+- [o] Merge the pull request (PR) on GH
+- [o] Pull changes locally
+- [o] Recover a deleted file
 
 ---
 
